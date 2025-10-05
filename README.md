@@ -1,2 +1,2 @@
 # lunarlandar1
-this projects use reinforcement learning applied on lunar landar simulation
+Reinforcement learning  was applied on lunar landar simulation for this project
